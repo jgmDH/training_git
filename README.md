@@ -46,7 +46,7 @@ Listo! 👍 Ahora vayamos a nuestra github page en nuestra rama de nuestra featu
 <b>🔥 IMPORTANTE:</b> apuntar siempre a develop la creación del <b>pull request</b> antes fusionar. También no olvides incluir una descripción o comentario.
 
 
-## Iteramos este proce en cada feature
+## Iteramos este proceso en cada feature
 
 Solo cuando terminemos de trabajar en nuestra rama de requerimientos realizamos el pull request a la rama develop. Cualquier miembro del equipo podra verificar el pull request y realizar la correspondiente revisión y resolución de conflictos para finalmente culminar el <b>merge pull request</b>
 
