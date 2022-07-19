@@ -31,7 +31,7 @@ Abrimos nuestro editor de texto preferido. Ej: Visual Studio Code y ingresamos u
 jgmDH 🇦🇷 <br>
 ```
 
-Guardamos y puseamos a nuestra rama de trabajo.
+Guardamos y pusheamos a nuestra rama de trabajo.
 
 ```bash
 git add . 
