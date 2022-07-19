@@ -1,3 +1,4 @@
 ### Training git
 
-Juan Gabriel Machuca - jgmDH
+Juan Gabriel Machuca - juanmachuca95 
+Juan Gabriel Machuca - jgmDH 
